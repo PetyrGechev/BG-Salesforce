@@ -1,2 +1,2 @@
 # BG-Salesforce
-Just for practice and testing :)
+Just for practice  :)
